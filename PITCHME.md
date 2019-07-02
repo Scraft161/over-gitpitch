@@ -33,7 +33,7 @@ en ook word Gitpitch gebruikt door talloze developers over de hele wereld.
 ---?color=#353535
 ## Geinterseerd?
 +++?color=#353535
-deze presentatie is bekijkbaar op [github](https://github.com/Scraft161/over-gitpitch)
+deze presentatie is bekijkbaar op [github](https://github.com/Scraft161/over-gitpitch).
 ook kan je de [gitpitch](https://gitpitch.com) website bekijken.
 ---?color=#353535
 ## Vragen?
