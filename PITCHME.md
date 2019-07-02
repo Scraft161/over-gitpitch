@@ -2,8 +2,7 @@
 # Over Gitpitch
 ---?color=#353535
 ## Wat is Gitpitch?
-+++
----?color=#353535
++++?color=#353535
 # Gitpitch is...
 
 * een manier om snel en mooi presentaties te maken.
@@ -32,4 +31,5 @@ Deze presentatie is volledig gemaakt met gitpitch.
 ---?color=#353535
 ## Geinterseerd?
 +++?color=#353535
-deze presentatie is bekijkbaar op 
+deze presentatie is bekijkbaar op [github](https://github.com/Scraft161/over-gitpitch)
+ook kan de [gitpitch](https://gitpitch.com) website bekijken.
