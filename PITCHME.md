@@ -3,7 +3,7 @@
 ## Wat is Gitpitch?
 +++
 @snap[midpoint]
-@box[bg-blue text-white waved box-padding](Gitpitch is...#- een manier om snel en mooi presentaties te maken.#- een manier om te vergeten dat powerpoint bestaat.)
+@box[bg-blue text-white waved box-padding](Gitpitch is...#- een manier om snel en mooi presentaties te maken.\n- een manier om te vergeten dat powerpoint bestaat.)
 @snapend
 +++
 ### Gitpitch is niet...
