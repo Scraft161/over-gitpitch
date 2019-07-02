@@ -1,36 +1,35 @@
 ---?color=#353535
 # Over Gitpitch
----
----?color=#1F6ED4
+---?color=#353535
 ## Wat is Gitpitch?
 +++
----?color=#1F6ED4
+---?color=#353535
 # Gitpitch is...
 
 * een manier om snel en mooi presentaties te maken.
 * een manier om te vergeten dat powerpoint bestaat.
-+++
++++?color=#353535
 ### Gitpitch is niet...
 
 * een manier om een verhaal te vertellen.
----
+---?color=#353535
 ## Voor wie is gitpitch?
-+++
++++?color=#353535
 ### Gitpitch is voor...
 
 * Developers en andere mensen met intresse in programmeren.
 * Mensen met wijnig tijd.
-+++
++++?color=#353535
 ### Gitpitch is niet voor...
 
 * mensen die niet met computers overweg kunnen.
 * mensen die liever te veel tijd in powerpoint willen steken.
----
+---?color=#353535
 ## Waar word gitpitch gebruikt?
-+++
++++?color=#353535
 ### hier
 Deze presentatie is volledig gemaakt met gitpitch.
----
+---?color=#353535
 ## Geinterseerd?
-+++
++++?color=#353535
 deze presentatie is bekijkbaar op 
