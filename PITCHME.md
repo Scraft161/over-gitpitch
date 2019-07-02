@@ -1,7 +1,10 @@
+---?color=#1F6ED4
 # Over Gitpitch
 ---
+---?color=#1F6ED4
 ## Wat is Gitpitch?
 +++
+---?color=#1F6ED4
 # Gitpitch is...
 
 * een manier om snel en mooi presentaties te maken.
