@@ -28,8 +28,14 @@
 +++?color=#353535
 ### hier
 Deze presentatie is volledig gemaakt met gitpitch.
++++?color=#353535
+en ook door talloze developers over de hele wereld.
 ---?color=#353535
 ## Geinterseerd?
 +++?color=#353535
 deze presentatie is bekijkbaar op [github](https://github.com/Scraft161/over-gitpitch)
 ook kan de [gitpitch](https://gitpitch.com) website bekijken.
+---?color=#353535
+## Vragen?
++++?color=#353535
+en dan nu het einde.
