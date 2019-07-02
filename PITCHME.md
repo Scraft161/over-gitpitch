@@ -4,8 +4,12 @@
 +++
 ### Gitpitch is...
 
-* een manier om snel en mooi presentaties te maken.
-* een manier om te vergeten dat powerpoint bestaat.
+@ul
+
+- een manier om snel en mooi presentaties te maken.
+- een manier om te vergeten dat powerpoint bestaat.
+
+@ulend
 +++
 ### Gitpitch is niet...
 
