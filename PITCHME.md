@@ -2,7 +2,7 @@
 ---
 ## Wat is Gitpitch?
 +++
-@snap[east span-50]
+@snap[center span-75]
 @box[bg-green box-padding](### Gitpitch is...)
 @ul
 
